@@ -17,6 +17,23 @@ Este repositório contém os aplicativos de todas as aulas de Programação para
 8. Vagas de emprego de TI (Scroll View).
 9. Vagas de emprego de TI (Flat List).
 10. Formulário de Abertura de Conta Bancária.
+11. Vagas de emprego de TI (com Flat List).
+12. Formulário de abertura de conta bancária com 2 telas com Stack Navigator.
+13. Anúncios para venda de produtos (com Scroll View e Stack Navigator).
+14. Vagas de emprego de TI (com Scroll View e Stack Navigator).
+15. Vagas de emprego de TI (com Flat List e Stack Navigator).
+16. Meu Perfil com Bottom Tab Bar.
+17. Meu Perfil com Top Tab Bar.
+18. Conversor de Moedas utilizando Bottom Tab Navigator, com 3 menus.
+19. Conversor de Moedas utilizando Top Tab Navigator, com 3 menus.
+20. Visualização de Frase com Preferências do Usuário.
+21. Lista de Tarefas.
+22. Lista de Compras.
+23. App de Consulta de Cep.
+24. App Perfil de Devs.
+25. App de Filmes.
+26. App Conversor de Moedas (Real, Dólar, Euro e Bitcoin).
+27. App de Cadastro de Tarefas.
 
 ## Tecnologias Utilizadas
 - React Native
